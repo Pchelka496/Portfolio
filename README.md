@@ -1,1 +1,1 @@
-![Grass culling](Media/Grass/culling.png)
+![Grass culling](Grass/culling.png)
