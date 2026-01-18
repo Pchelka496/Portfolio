@@ -70,6 +70,9 @@ Wind animation is implemented as a <b>three-band system</b>, providing natural a
 Color variation is driven by a <b>color map</b> combined with three additional tint colors:
 </p>
 
+<p align="center">
+  <img src="Grass/grassColor.png" width="100%">
+</p>
 <ul>
   <li>Root tint</li>
   <li>Mid-section tint</li>
