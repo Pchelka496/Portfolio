@@ -8,28 +8,47 @@
 
 <h3>🧩 GPU Culling</h3>
 <p align="center">
-  <img src="Grass/culling.png" width="700">
+  <img src="Grass/culling.png" width="720">
 </p>
 
 <hr>
 
 <h3>🌿 Grass Rendering</h3>
 <p align="center">
-  <img src="Grass/grass.gif" width="700">
+  <img src="Grass/grass.gif" width="48%" style="margin-right:2%">
+  <img src="Grass/grass_1.gif" width="48%">
 </p>
 
 <hr>
 
 <h3>🍃 Grass Bending</h3>
 <p align="center">
-  <img src="Grass/grass_bend.gif" width="700">
+  <img src="Grass/grassBend.gif" width="720">
 </p>
 
 <hr>
 
-<h3>📏 LOD & Density</h3>
+<h2>☁️ Volumetric Clouds</h2>
+
 <p align="center">
-  <img src="Grass/grass_lod.gif" width="700">
+  <img src="VolumetricClouds/Cloud.gif" width="720">
+</p>
+
+<p align="center">
+  <img src="VolumetricClouds/Cloud_0.png" width="48%" style="margin-right:2%">
+  <img src="VolumetricClouds/Cloud_1.png" width="48%">
+</p>
+
+<hr>
+
+<h2>💡 Volumetric Light</h2>
+
+<p align="center">
+  <img src="VolumetricLight/VLight.gif" width="720">
+</p>
+
+<p align="center">
+  <img src="VolumetricLight/VLight_2.png" width="720">
 </p>
 
 <hr>
